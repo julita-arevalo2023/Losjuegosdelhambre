@@ -149,5 +149,5 @@
                 </tbody>
             </table>
             </footer>
-        <!-- Bootstrap core JS-->
+      
         
